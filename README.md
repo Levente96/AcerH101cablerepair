@@ -27,22 +27,22 @@ If you look into a male connector and number the pins as following:
 | 18 | 16 | 14 | 12 | 10 | 8 | 6 | 4 | 2 | / |
 
 The connections are the following(single color is the thin wire, double color is line and the major color in the pair (within the blue pairs)):
-1: black
-2: orange
-3: yellow
-4: brown
-5: green
-6: not connected!
-7: white
-8: white(yellow)
-9: shield
-10: yellow(yellow)
-11: white(blue)
-12: shield
-13: blue(blue)
-14: white(brown)
-15: shield
-16: brown(brown)
+1. black
+2. orange
+3. yellow
+4. brown
+5. green
+6. not connected!
+7. white
+8. white(yellow)
+9. shield
+10. yellow(yellow)
+11. white(blue)
+12. shield
+13. blue(blue)
+14. white(brown)
+15. shield
+16. brown(brown)
 17: white(orange)
 18: shield
 19: orange(orange)
