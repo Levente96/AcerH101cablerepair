@@ -21,10 +21,10 @@ On closer inspection the cables are the following for the HDMI:
 * thin brown(the darker one)
 
 If you look into a male connector and number the pins as following:
--------
-|19|17|15|13|11|9|7|5|3|1|
-|\\|18|16|14|12|10|8|6|4|2|/|
--------
+
+| 19 | 17 | 15 | 13 | 11 | 9 | 7 | 5 | 3 | 1 | |
+| \\ | 18 | 16 | 14 | 12 | 10 | 8 | 6 | 4 | 2 | / |
+
 The connections are the following(single color is the thin wire, double color is line and the major color in the pair (within the blue pairs)):
 1: black
 2: orange
