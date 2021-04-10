@@ -50,6 +50,9 @@ The connections are the following(single color is the thin wire, double color is
 ## USB 3.0 SuperSpeed
 The POC is done, still using the original cable, will replace next.
 
+## Repair live
+[https://www.twitch.tv/sloom96](https://www.twitch.tv/sloom96)
+
 ## Sources
 * [iFixit Guide](https://www.ifixit.com/Teardown/Acer+Windows+Mixed+Reality+Headset+Developer+Edition+Teardown/96581)
 * [HDMI2.0 Guide](https://ez.analog.com/video/w/documents/687/hdmi-layout-guideline)
