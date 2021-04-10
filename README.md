@@ -49,6 +49,8 @@ The connections are the following(single color is the thin wire, double color is
 18: shield
 19: orange(orange)
 
+![soldered](https://github.com/Levente96/AcerH101cablerepair/blob/main/IMG_20210410_192151.jpg "Soldered")
+
 ## USB 3.0 SuperSpeed
 The POC is done, still using the original cable, will replace next.
 
