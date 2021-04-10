@@ -1,7 +1,7 @@
 # Acer H101 cable repair
 Acer H101 WMR DIY cable repair. The goal is to remove the original broken cable, and put some connectors on the headset for easy replacement of the cable in the future.
 
-![proof](https://raw.githubusercontent.com/Levente96/AcerH101cablerepair/blob/main/IMG_20210410_191918.jpg "Working")
+![proof](https://github.com/Levente96/AcerH101cablerepair/blob/main/IMG_20210410_192151.jpg "Working")
 
 ## Cable properties
 Observing the cable and other headsets, it turns out the cable is a simple HDMI 2.0 and USB 3.0 SuperSpeed cable weaved together.
